@@ -1,4 +1,4 @@
-#About The Hotel Management System
+# About The Hotel Management System
 Key Features
 
 User Management:
